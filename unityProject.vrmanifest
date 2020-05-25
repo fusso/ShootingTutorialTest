@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.survivalshootertutorial2vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\koki1\\Documents\\SurvivalShooterTutorial2VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SurvivalShooterTutorial2VR [Testing]"
+        }
+      }
+    }
+  ]
+}
